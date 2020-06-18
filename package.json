@@ -5,7 +5,6 @@
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
-	// lib packages/index.js  packages/index.js 指定打包的文件
 	"lib": "vue-cli-service build --target lib packages/index.js"
   },
   "dependencies": {
